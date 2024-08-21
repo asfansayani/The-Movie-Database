@@ -1,0 +1,224 @@
+{
+    "trending": [
+        {
+            "name": "A Quiet Place: Day One",
+            "date": "Jun 26, 2024",
+            "img": "./src/assets/images/media.webp",
+            "percent": "10"
+        },
+        {
+            "name": "A Quiet Place: Day One",
+            "date": "Jun 26, 2024",
+            "img": "./src/assets/images/media.webp",
+            "percent": "10"
+        },
+        {
+            "name": "A Quiet Place: Day One",
+            "date": "Jun 26, 2024",
+            "img": "./src/assets/images/media.webp",
+            "percent": "10"
+        },
+        {
+            "name": "A Quiet Place: Day One",
+            "date": "Jun 26, 2024",
+            "img": "./src/assets/images/media.webp",
+            "percent": "10"
+        },
+        {
+            "name": "A Quiet Place: Day One",
+            "date": "Jun 26, 2024",
+            "img": "./src/assets/images/media.webp",
+            "percent": "10"
+        },
+        {
+            "name": "A Quiet Place: Day One",
+            "date": "Jun 26, 2024",
+            "img": "./src/assets/images/media.webp",
+            "percent": "10"
+        },
+        {
+            "name": "A Quiet Place: Day One",
+            "date": "Jun 26, 2024",
+            "img": "./src/assets/images/media.webp",
+            "percent": "10"
+        },
+        {
+            "name": "A Quiet Place: Day One",
+            "date": "Jun 26, 2024",
+            "img": "./src/assets/images/media.webp",
+            "percent": "10"
+        },
+        {
+            "name": "A Quiet Place: Day One",
+            "date": "Jun 26, 2024",
+            "img": "./src/assets/images/media.webp",
+            "percent": "10"
+        },
+        {
+            "name": "A Quiet Place: Day One",
+            "date": "Jun 26, 2024",
+            "img": "./src/assets/images/media.webp",
+            "percent": "10"
+        },
+        {
+            "name": "A Quiet Place: Day One",
+            "date": "Jun 26, 2024",
+            "img": "./src/assets/images/media.webp",
+            "percent": "10"
+        },
+        {
+            "name": "A Quiet Place: Day One",
+            "date": "Jun 26, 2024",
+            "img": "./src/assets/images/media.webp",
+            "percent": "10"
+        }
+    ],
+    "popular": [
+        {
+            "name": "Spider-Man: Across the Spider-Verse",
+            "date": "Jun 02, 2023",
+            "img": "./src/assets/images/media2.webp",
+            "percent": "85"
+        },
+        {
+            "name": "Spider-Man: Across the Spider-Verse",
+            "date": "Jun 02, 2023",
+            "img": "./src/assets/images/media2.webp",
+            "percent": "85"
+        },
+        {
+            "name": "Spider-Man: Across the Spider-Verse",
+            "date": "Jun 02, 2023",
+            "img": "./src/assets/images/media2.webp",
+            "percent": "85"
+        },
+        {
+            "name": "Spider-Man: Across the Spider-Verse",
+            "date": "Jun 02, 2023",
+            "img": "./src/assets/images/media2.webp",
+            "percent": "85"
+        },
+        {
+            "name": "Spider-Man: Across the Spider-Verse",
+            "date": "Jun 02, 2023",
+            "img": "./src/assets/images/media2.webp",
+            "percent": "85"
+        },
+        {
+            "name": "Spider-Man: Across the Spider-Verse",
+            "date": "Jun 02, 2023",
+            "img": "./src/assets/images/media2.webp",
+            "percent": "85"
+        },
+        {
+            "name": "Spider-Man: Across the Spider-Verse",
+            "date": "Jun 02, 2023",
+            "img": "./src/assets/images/media2.webp",
+            "percent": "85"
+        },
+        {
+            "name": "Spider-Man: Across the Spider-Verse",
+            "date": "Jun 02, 2023",
+            "img": "./src/assets/images/media2.webp",
+            "percent": "85"
+        },
+        {
+            "name": "Spider-Man: Across the Spider-Verse",
+            "date": "Jun 02, 2023",
+            "img": "./src/assets/images/media2.webp",
+            "percent": "85"
+        },
+        {
+            "name": "Spider-Man: Across the Spider-Verse",
+            "date": "Jun 02, 2023",
+            "img": "./src/assets/images/media2.webp",
+            "percent": "85"
+        },
+        {
+            "name": "Spider-Man: Across the Spider-Verse",
+            "date": "Jun 02, 2023",
+            "img": "./src/assets/images/media2.webp",
+            "percent": "85"
+        },
+        {
+            "name": "Spider-Man: Across the Spider-Verse",
+            "date": "Jun 02, 2023",
+            "img": "./src/assets/images/media2.webp",
+            "percent": "85"
+        }
+    ],
+    "free": [
+        {
+            "name": "Beauty and the Beast",
+            "date": "Feb 12, 2014",
+            "img": "./src/assets/images/media3.webp",
+            "percent": "60"
+        },
+        {
+            "name": "Beauty and the Beast",
+            "date": "Feb 12, 2014",
+            "img": "./src/assets/images/media3.webp",
+            "percent": "60"
+        },
+        {
+            "name": "Beauty and the Beast",
+            "date": "Feb 12, 2014",
+            "img": "./src/assets/images/media3.webp",
+            "percent": "60"
+        },
+        {
+            "name": "Beauty and the Beast",
+            "date": "Feb 12, 2014",
+            "img": "./src/assets/images/media3.webp",
+            "percent": "60"
+        },
+        {
+            "name": "Beauty and the Beast",
+            "date": "Feb 12, 2014",
+            "img": "./src/assets/images/media3.webp",
+            "percent": "60"
+        },
+        {
+            "name": "Beauty and the Beast",
+            "date": "Feb 12, 2014",
+            "img": "./src/assets/images/media3.webp",
+            "percent": "60"
+        },
+        {
+            "name": "Beauty and the Beast",
+            "date": "Feb 12, 2014",
+            "img": "./src/assets/images/media3.webp",
+            "percent": "60"
+        },
+        {
+            "name": "Beauty and the Beast",
+            "date": "Feb 12, 2014",
+            "img": "./src/assets/images/media3.webp",
+            "percent": "60"
+        },
+        {
+            "name": "Beauty and the Beast",
+            "date": "Feb 12, 2014",
+            "img": "./src/assets/images/media3.webp",
+            "percent": "60"
+        },
+        {
+            "name": "Beauty and the Beast",
+            "date": "Feb 12, 2014",
+            "img": "./src/assets/images/media3.webp",
+            "percent": "60"
+        },
+        {
+            "name": "Beauty and the Beast",
+            "date": "Feb 12, 2014",
+            "img": "./src/assets/images/media3.webp",
+            "percent": "60"
+        },
+        {
+            "name": "Beauty and the Beast",
+            "date": "Feb 12, 2014",
+            "img": "./src/assets/images/media3.webp",
+            "percent": "60"
+        }
+    ]
+}
